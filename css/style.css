@@ -117,3 +117,56 @@ footer{
     width:600px;
     float:left;
 }
+@media screen and (max-width:980px){
+    .main{
+        width:680px;
+        margin:auto;
+    }
+    h5{
+        width:680px;
+    }
+    .limit_space
+    {
+         width:680px;
+    }
+}
+@media screen and (max-width:768px){
+    .main{
+        width: 568px;
+        margin:auto;
+    }
+    h5{
+        width:568px;
+    }
+    .limit_space{
+        width:568px;
+    }
+    .headline{
+        height:40px;
+    }
+    h1{
+        font-size:30px;
+    }
+}
+@media screen and (max-width:640px){
+    .main{
+        width:440px;
+    }
+    h5{
+        width:440px;
+        font-size:30px;
+    }
+    .Greye{
+        width:440px;
+        height:290.4px;
+    }
+    .p2{
+        width:440px;
+        height:290.4px;
+    }
+    .p3{
+        width:440px;
+        height:290.4px;
+    }
+
+}
